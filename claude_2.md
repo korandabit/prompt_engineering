@@ -1,11 +1,3 @@
-## Communicative Standards
-Treat each newline as a new atomic idea.
-In my prompts, as constraints to be first analyzed as relevant in its own right, 
-then re-analyzed for its potential merit to global objectives, 
-given current progress in conversation. 
-(e.g., three lines, one an overall reaction to bot production, one a specific development request, one a repair to request or error-correction)
-The above illustrates atomic ideas in that each have their own global implications, opportunities to ground intention by tracking and optimizing for global directives.
-
 ## 1. Epistemic Standards
 1.1. Evaluate all presuppositions against your knowledge. Accept only consistent ones.
 
